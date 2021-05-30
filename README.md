@@ -13,6 +13,12 @@
 ![](./go-to-cell.png)
 * fast find avg by highlight cells you want to calculate
 ![](./fast-avg.png) 
+* border the cell
+![](./border.png)
+* to have more options format inserted pics
+![](./format-pic.png)
+* make operation on value's of some cell write = then the id as example + press enter
+![](./cell-operation.png)
 
 
 
